@@ -1,7 +1,11 @@
-## EDA Mini Project
-- Tools: Python, Pandas, NumPy, Matplotlib, Seaborn
-- Platform: Google Colab
-- Description: Performed data cleaning, univariate & bivariate analysis, and visualizations.
+# EDA Mini Project
 
-### Notebook Link:
-[Click here to view notebook] (https://colab.research.google.com/drive/1BKmHMnslQqZeC493_vtgl0vNn16rtXVN?usp=sharing)
+Exploratory Data Analysis using Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+### 📁 Notebook
+[EDA_Mini_Project.ipynb] (EDA_Mini_Project.ipynb)
+
+### Summary
+- Data cleaning
+- Visualization
+- Insights and observations
